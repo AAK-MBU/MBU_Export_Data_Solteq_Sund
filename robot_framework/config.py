@@ -25,3 +25,4 @@ QUEUE_NAME = None
 MAX_TASK_COUNT = 100
 
 # ----------------------
+APP_PATH = "C:\Program Files (x86)\TM Care\TM Sund\TMSund.exe"
